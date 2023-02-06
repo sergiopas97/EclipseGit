@@ -1,6 +1,6 @@
 
 public class PruebaGit {
-  public static void main[] args{
+	public static void main(String[] args) {
 	  System.out.println("este es el primer mensaje");
 	  int age;
 	  String edad;
